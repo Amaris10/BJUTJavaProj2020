@@ -16,20 +16,20 @@
 ### 客户端指令判断活动图
 描述了客户端程序如何判断用户输入，并执行相关处理
 
-![avatar](./pics/Client.JPG)
+![avatar](https://github.com/bjut18013108/BJUTJavaProj2020/blob/master/pics/Client.JPG)
 ### 客户端指令判断活动图
 描述了服务端如何监听客户端发来的指令，并执行相关处理
 
-![avatar](./pics/Server.JPG)
+![avatar](https://github.com/bjut18013108/BJUTJavaProj2020/blob/master/pics/Server.jpg)
 ### 文件上传时序
 描述了当客户端检测到用户输入UPLOAD指令时，客户端与服务端的通讯过程
 
-![avatar](./pics/UPLOAD.JPG)
+![avatar](https://github.com/bjut18013108/BJUTJavaProj2020/blob/master/pics/UPLOAD.jpg)
 ### 文件下载时序
 描述了当客户端检测到用户输入DOWNLOAD指令时，客户端与服务端的通讯过程(HAPPT PATH)
 
-![avatar](./pics/DOWNLOAD.JPG)
+![avatar](https://github.com/bjut18013108/BJUTJavaProj2020/blob/master/pics/DOWNLOAD.jpg)
 ### 全部文件名查询时序
 描述了当客户端检测到用户输入UPLOAD指令时，客户端与服务端的通讯过程
 
-![avatar](./pics/ALLFILES.JPG)
+![avatar](https://github.com/bjut18013108/BJUTJavaProj2020/blob/master/pics/ALLFILES.jpg)
